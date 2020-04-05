@@ -1,0 +1,14 @@
+C:\Users\Anderson\Desktop\Windows Forms\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Anderson\Desktop\Windows Forms\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Anderson\Desktop\Windows Forms\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Anderson\Desktop\Windows Forms\Calculadora\Calculadora\bin\Debug\af\Calculadora.resources.dll
+C:\Users\Anderson\Desktop\Windows Forms\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Anderson\Desktop\Windows Forms\Calculadora\Calculadora\obj\Debug\Calculadora.Caladora.resources
+C:\Users\Anderson\Desktop\Windows Forms\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Anderson\Desktop\Windows Forms\Calculadora\Calculadora\obj\Debug\Calculadora.Caladora.af.resources
+C:\Users\Anderson\Desktop\Windows Forms\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Anderson\Desktop\Windows Forms\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\Windows Forms\Calculadora\Calculadora\obj\Debug\af\Calculadora.resources.dll
+C:\Users\Anderson\Desktop\Windows Forms\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Anderson\Desktop\Windows Forms\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Anderson\Desktop\Windows Forms\Calculadora\Calculadora\obj\Debug\Calculadora.Form2.resources
